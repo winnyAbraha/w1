@@ -1,7 +1,7 @@
 const assert = require("assert");  //always need this with node
 const wdouble = require("./d15fnExps");  //do this for all of the functions used in the Mocha tests
-const wmyMap = require("./d15fnExps.js");
-const wtimes100 = require("./d15fnExps.js")
+const wmyMap = require("./d15fnExps");
+const wtimes100 = require("./d15fnExps")
 
 
 describe("double", function () {
